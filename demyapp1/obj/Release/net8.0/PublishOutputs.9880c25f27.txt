@@ -1,0 +1,7 @@
+/home/siphiwe/az204/dotnet/demyapp1/bin/Publish/demyapp1
+/home/siphiwe/az204/dotnet/demyapp1/bin/Publish/appsettings.Development.json
+/home/siphiwe/az204/dotnet/demyapp1/bin/Publish/appsettings.json
+/home/siphiwe/az204/dotnet/demyapp1/bin/Publish/demyapp1.dll
+/home/siphiwe/az204/dotnet/demyapp1/bin/Publish/demyapp1.deps.json
+/home/siphiwe/az204/dotnet/demyapp1/bin/Publish/demyapp1.runtimeconfig.json
+/home/siphiwe/az204/dotnet/demyapp1/bin/Publish/demyapp1.pdb
